@@ -2,7 +2,7 @@
 
 Sistema de venta de boletos y administración de funciones de un cine con MySQL.
 
-### Venta y selección de asientos:
+### Venta de boletos y selección de asientos:
 
 ---
 
