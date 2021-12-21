@@ -13,7 +13,7 @@ Sistema de venta de boletos y administración de funciones de un cine con MySQL.
 [![pt1-sistem-Cine-Cesarjub.gif](https://i.postimg.cc/hGKGcTBF/pt1-sistem-Cine-Cesarjub.gif)](https://postimg.cc/9DN2B401)
 
 - Selección de cantidad de asientos a comprar (el precio cambia para cada tipo de persona).
-- Selección de asientos a escoger (limitados a la cantidad previamente seleccionada).
+- Selección de asientos (limitados a la cantidad previamente seleccionada).
 
 [![pt2-sistema-Cine-Cesarjub.gif](https://i.postimg.cc/PqD03FcT/pt2-sistema-Cine-Cesarjub.gif)](https://postimg.cc/VSY754mV)
 
